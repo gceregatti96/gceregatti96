@@ -10,7 +10,6 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java Developer**
 
 - 📫 Feel free to reach me out **gceregatti96@gmail.com**
 
